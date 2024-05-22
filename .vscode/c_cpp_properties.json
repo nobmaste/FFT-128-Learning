@@ -12,7 +12,7 @@
         "limitSymbolsToIncludedHeaders": true,
         "databaseFilename": ""
       },
-      "compilerPath": "C:/mingw64/bin/gcc.exe",
+      "compilerPath": "D:/App/MinGW64/mingw64/bin/gcc.exe",
       "cStandard": "${default}",
       "cppStandard": "${default}",
       "intelliSenseMode": "windows-gcc-x64",
